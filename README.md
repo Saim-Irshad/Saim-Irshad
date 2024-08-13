@@ -11,15 +11,14 @@
 <p align="left"> <a href="https://twitter.com/Saim-Irshad" target="blank"><img
             src="https://img.shields.io/twitter/follow/Saim-Irshad?logo=twitter&style=for-the-badge" alt="Saim-Irshad"
             </p>
-- 🔭 I’m currently working on **Vexa Web App**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Backend development**
 
-- 💬 Ask me about **Android , MEARN**
+- 💬 Ask me about **React Native , MEARN, NextJS**
 
-- 📫 How to reach me **Saim-Irshad0@gmail.com**
+- 📫 How to reach me **Saim-Irshad676@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I am !Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
