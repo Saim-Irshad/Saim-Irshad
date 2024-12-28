@@ -23,11 +23,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://linkedin.com/in/rishav-chanda-b89a791b3" target="blank"><img align="center"
+<a href="https://linkedin.com/in/Saim-Irshad" target="blank"><img align="center"
                     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
                     alt="rishav-chanda-b89a791b3" height="30" width="40" />linkedin.com/in/saim-irshad/</a>
 
-<a href="https://www.youtube.com/c/rishav chanda" target="blank"><img align="center"
+<a href="https://www.designwithsaim.vercel.app" target="blank"><img align="center"
                     src="https://cdn-icons-png.flaticon.com/512/5339/5339181.png" alt="rishav chanda" height="40"
                     width="40" />designwithsaim.vercel.app</a>
 </p>
